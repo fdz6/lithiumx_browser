@@ -8,3 +8,6 @@ If your antivirus detects the browser as a virus, it is false positive.
 (Minimum iOS Version: iOS ? or higher)
 
 (Minimum Android Version: Android ? or higher)
+
+Use 150% scale for the best performance or else the browser UI breaks.
+![image](https://github.com/user-attachments/assets/6ff5fffb-7116-4622-8983-21e33e2a9881)
