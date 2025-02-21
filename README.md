@@ -5,6 +5,8 @@ If your antivirus detects the browser as a virus, it is false positive.
 
 (Minimum Windows Version: Windows 10 or higher)
 
+(Linux is supported if you run the Wine environment.)
+
 (Minimum iOS Version: iOS ? or higher)
 
 (Minimum Android Version: Android ? or higher)
